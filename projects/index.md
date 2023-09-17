@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 2
   tooltip: Our Research Projects
@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-A comprehensive list of projects AIML@K people work on.
+Our research spectra include not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. This is a comprehensive list of projects AIML@K people work on.
 
 {% include tags.html tags="publication, resource, website" %}
 
