@@ -1,7 +1,7 @@
 ---
 title: Research
 nav:
-  order: 2
+  order: 20
   tooltip: Our Research Projects
 ---
 
