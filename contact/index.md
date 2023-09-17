@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 50
   tooltip: Email, address, and location
 ---
 
@@ -24,6 +24,6 @@ We are located on the 6th floor of Asan Science Building, Seoul, Korea.
 {%
   include button.html
   type="address"
-  tooltip="Asan Science Building"
-  link="https://www.google.com/maps"
+  tooltip="6th floor, Asan Science Building"
+  link="https://maps.app.goo.gl/hfUdJArJn5r4DFkP7"
 %}
