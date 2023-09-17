@@ -1,7 +1,7 @@
 ---
 title: LOG
 nav:
-  order: 4
+  order: 40
   tooltip: Musings and miscellany
 ---
 
