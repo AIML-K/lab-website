@@ -5,9 +5,9 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %} Log
 
-Take a peek into the traces of our wonderful journey.
+Take a peek into the traces of our bumpy, fun, and wonderful journey.
 
 {% include section.html %}
 
