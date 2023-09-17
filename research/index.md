@@ -1,13 +1,13 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
+  order: 30
   tooltip: Published works
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research spectra include not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. 
+Here are the scholarly publications that came to life by the hands of AIML@K members.
 
 
 {% include section.html %}
