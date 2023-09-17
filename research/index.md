@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research spectra includes not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. 
+Our research spectra include not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. 
 
 
 {% include section.html %}
