@@ -48,8 +48,7 @@
   orcid: 0000-0002-7941-2395
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5555/12345678
-  title: 'Noun-MWP: Math Word Problems Meet Noun Answers'
+- title: 'Noun-MWP: Math Word Problems Meet Noun Answers'
   authors:
   - Taehun Cha
   - Jaeheun Jung
