@@ -1,15 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1007/978-3-031-05936-0_26
-  title: "Online Learning with\_Regularized Knowledge Gradients"
-  authors:
-  - Donghun Lee
-  - Warren B. Powell
-  publisher: Advances in Knowledge Discovery and Data Mining
-  date: '2020-05-16'
-  link: https://doi.org/gsqwr5
-  plugin: sources.py
-  file: sources.yaml
 - title: 'Noun-MWP: Math Word Problems Meet Noun Answers'
   authors:
   - Taehun Cha
@@ -18,5 +8,15 @@
   publisher: ACL Anthology
   date: '2022-10-17'
   link: https://aclanthology.org/2022.coling-1.338/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-05936-0_26
+  title: "Online Learning with\_Regularized Knowledge Gradients"
+  authors:
+  - Donghun Lee
+  - Warren B. Powell
+  publisher: Advances in Knowledge Discovery and Data Mining
+  date: '2020-05-16'
+  link: https://doi.org/gsqwr5
   plugin: sources.py
   file: sources.yaml
