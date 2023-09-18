@@ -1,7 +1,5 @@
 
-# no id makes so many bugs?
-- id: doi:10.5555/12345678
-  title: "Noun-MWP: Math Word Problems Meet Noun Answers"
+- title: "Noun-MWP: Math Word Problems Meet Noun Answers"
   authors:
     - Taehun Cha
     - Jaeheun Jung
