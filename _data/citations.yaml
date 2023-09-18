@@ -10,3 +10,13 @@
   link: https://doi.org/gsqwr5
   plugin: sources.py
   file: sources.yaml
+- title: 'Noun-MWP: Math Word Problems Meet Noun Answers'
+  authors:
+  - Taehun Cha
+  - Jaeheun Jung
+  - Donghun Lee
+  publisher: ACL Anthology
+  date: '2022-10-17'
+  link: https://aclanthology.org/2022.coling-1.338/
+  plugin: sources.py
+  file: sources.yaml
