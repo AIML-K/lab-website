@@ -1,0 +1,61 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1007/978-3-031-05936-0_26
+  title: "Online Learning with\_Regularized Knowledge Gradients"
+  authors:
+  - Donghun Lee
+  - Warren B. Powell
+  publisher: Advances in Knowledge Discovery and Data Mining
+  date: '2022-01-01'
+  link: https://doi.org/gsqwr5
+  orcid: 0000-0002-7941-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tac.2019.2912443
+  title: Bias-Corrected Q-Learning With Multistate Extension
+  authors:
+  - Donghun Lee
+  - Warren B. Powell
+  publisher: IEEE Transactions on Automatic Control
+  date: '2019-10-01'
+  link: https://doi.org/gsqwsw
+  orcid: 0000-0002-7941-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ssci.2017.8285393
+  title: Optimal online learning in bidding for sponsored search auctions
+  authors:
+  - Donghun Lee
+  - Piotr Ziolo
+  - Weidong Han
+  - Warren B. Powell
+  publisher: 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2017-11-01'
+  link: https://doi.org/gsqwsx
+  orcid: 0000-0002-7941-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/adprl.2013.6614994
+  title: Bias-corrected Q-learning to control max-operator bias in Q-learning
+  authors:
+  - Donghun Lee
+  - Boris Defourny
+  - Warren B. Powell
+  publisher: 2013 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement
+    Learning (ADPRL)
+  date: '2013-04-01'
+  link: https://doi.org/gsqwsz
+  orcid: 0000-0002-7941-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5555/12345678
+  title: 'Noun-MWP: Math Word Problems Meet Noun Answers'
+  authors:
+  - Taehun Cha
+  - Jaeheun Jung
+  - Donghun Lee
+  publisher: Proceedings of the 29th International Conference on Computational Linguistics
+  date: '2022-10-17'
+  link: https://aclanthology.org/2022.coling-1.338/
+  plugin: sources.py
+  file: sources.yaml

@@ -15,3 +15,7 @@ links:
 - B.A. in Biochemistry @ [Columbia University](https://www.columbia.edu/)
 
 I have an unusual course of academic life :)
+
+--- 
+
+TODO: add CV as an example

@@ -1,27 +1,26 @@
 ---
-title: Publications
+title: Research
 nav:
-  order: 30
-  tooltip: Published works
+  order: 20
+  tooltip: Our Research Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Here are the scholarly publications that came to life by the hands of AIML@K members.
+Our research spectra include not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. This is a comprehensive list of projects AIML@K people work on.
 
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
