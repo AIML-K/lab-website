@@ -22,8 +22,8 @@
 
 :root {
   --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --heading: "Quicksand", sans-serif;
+  --body: "Lato", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
@@ -34,7 +34,7 @@
   --semi-bold: 500;
   --bold: 600;
   --spacing: 2;
-  --rounded: 3px;
+  --rounded: 10px;
   --shadow: 0 0 10px 0 var(--overlay);
 }
 
