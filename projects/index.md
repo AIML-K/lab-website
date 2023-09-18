@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: Research
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 20
+  tooltip: Our Research Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research spectra include not only the fundamental mathematics related to AI/ML algorithms but also the real-world applications of AI. This is a comprehensive list of projects AIML@K people work on.
 
 {% include tags.html tags="publication, resource, website" %}
 

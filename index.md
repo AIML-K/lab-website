@@ -1,9 +1,9 @@
 ---
 ---
 
-# AIML-K's Website
+# AI & Math Lab @ Korea University
 
-An engaging 1-3 sentence description of your lab.
+Artificial Intelligence is not a magic. It's mathematics in a very friendly fashion. We explore the frontiers of AI with mathematics.
 
 {% include section.html %}
 
